@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="forms-1.3.0.jar" sourcepath="forms-1.3.0-src.zip"/>
+	<classpathentry kind="lib" path="lib/jasypt-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/myWebProject/mysql-connector-java-8.0.15/mysql-connector-java-8.0.15.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="C:/eclipse-jee-2018-12-R-win32-x86_64/repository/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-jee-2018-12-R-win32-x86_64/repository/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-jee-2018-12-R-win32-x86_64/repository/mssql-jdbc-7.2.1.jre8.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-jee-2018-12-R-win32-x86_64/repository/mysql-connector-java-8.0.15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

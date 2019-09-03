@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DocsConnectionPropsHelper<bachelor_5_pres>",
+            "request": "launch",
+            "mainClass": "com.mysql.jdbc.DocsConnectionPropsHelper",
+            "projectName": "bachelor_5_pres"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ErrorMappingsDocGenerator<bachelor_5_pres>",
+            "request": "launch",
+            "mainClass": "com.mysql.jdbc.util.ErrorMappingsDocGenerator",
+            "projectName": "bachelor_5_pres"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PropertiesDocGenerator<bachelor_5_pres>",
+            "request": "launch",
+            "mainClass": "com.mysql.jdbc.util.PropertiesDocGenerator",
+            "projectName": "bachelor_5_pres"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TimezoneDump<bachelor_5_pres>",
+            "request": "launch",
+            "mainClass": "com.mysql.jdbc.util.TimezoneDump",
+            "projectName": "bachelor_5_pres"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VersionFSHierarchyMaker<bachelor_5_pres>",
+            "request": "launch",
+            "mainClass": "com.mysql.jdbc.util.VersionFSHierarchyMaker",
+            "projectName": "bachelor_5_pres"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AlgorithmRegistryCLI<bachelor_5_pres>",
+            "request": "launch",
+            "mainClass": "org.jasypt.intf.cli.AlgorithmRegistryCLI",
+            "projectName": "bachelor_5_pres"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-JasyptPBEStringDecryptionCLI<bachelor_5_pres>",
+            "request": "launch",
+            "mainClass": "org.jasypt.intf.cli.JasyptPBEStringDecryptionCLI",
+            "projectName": "bachelor_5_pres"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-JasyptPBEStringEncryptionCLI<bachelor_5_pres>",
+            "request": "launch",
+            "mainClass": "org.jasypt.intf.cli.JasyptPBEStringEncryptionCLI",
+            "projectName": "bachelor_5_pres"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-JasyptStringDigestCLI<bachelor_5_pres>",
+            "request": "launch",
+            "mainClass": "org.jasypt.intf.cli.JasyptStringDigestCLI",
+            "projectName": "bachelor_5_pres"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<bachelor_5_pres>",
+            "request": "launch",
+            "mainClass": "ui.App",
+            "projectName": "bachelor_5_pres"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bachelor_Dialog<bachelor_5_pres>",
+            "request": "launch",
+            "mainClass": "ui.bachelor_.Bachelor_Dialog",
+            "projectName": "bachelor_5_pres"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Contestant_Dialog<bachelor_5_pres>",
+            "request": "launch",
+            "mainClass": "ui.contestant_.Contestant_Dialog",
+            "projectName": "bachelor_5_pres"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-User_LoginDialog<bachelor_5_pres>",
+            "request": "launch",
+            "mainClass": "ui.users.User_LoginDialog",
+            "projectName": "bachelor_5_pres"
+        }
+    ]
+}
